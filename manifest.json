@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Github PR helper",
+  "version": "1.0",
+  "description": "Github PR helper",
+  "permissions": ["tabs"],
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "16": "images/icon.png",
+    "48": "images/icon.png",
+    "128": "images/icon.png"
+  }
+}
