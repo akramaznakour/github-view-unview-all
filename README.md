@@ -7,7 +7,7 @@
 
 ## Screenshot
 
-![Screenshot](/images/screenshot.png)
+![Screenshot](/images/readme-screenshot.png)
 
 
 ## Installation
