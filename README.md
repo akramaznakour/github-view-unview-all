@@ -5,6 +5,11 @@
 - **View All**: Clicking the "View All" set all files as viewed
 - **Undo View All**: Clicking the "Undo View All" set all files as unviewed
 
+## Screenshot
+
+![Screenshot](/images/screenshot.png)
+
+
 ## Installation
 
 To install and use the Github PR Helper Extension, follow these steps:
