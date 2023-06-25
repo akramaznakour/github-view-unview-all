@@ -58,7 +58,9 @@ function addDefaultButtonsForInputs() {
 // Check URL pattern on initial page load
 addDefaultButtonsForInputs();
 
-// Listen for URL changes
-window.addEventListener("popstate", function () {
+// Check URL pattern on page change
+// turbo:render event is fired when the page is changed in GitHub
+// because GitHub uses Turbo (https://turbo.hotwire.dev/)
+window.addEventListener("turbo:render", function () {
   addDefaultButtonsForInputs();
 });
