@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Github PR helper",
+  "name": "Github View/Unview All Extension",
   "version": "1.0",
-  "description": "Github PR helper",
+  "description": "Manage GitHub PR files effortlessly. View All, Unview All. A playful idea turned helpful tool",
   "permissions": ["tabs"],
   "content_scripts": [
     {

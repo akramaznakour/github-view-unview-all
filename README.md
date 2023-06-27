@@ -1,4 +1,4 @@
-# Github PR Helper Extension
+# Github View/Unview All Extension
 
 ## Features
 
@@ -12,7 +12,7 @@
 
 ## Installation
 
-To install and use the Github PR Helper Extension, follow these steps:
+To install and use the Github View/Unview All Extension, follow these steps:
 
 1. Clone or download the extension files from the GitHub repository.
 2. Open the Chrome browser and go to `chrome://extensions`.
